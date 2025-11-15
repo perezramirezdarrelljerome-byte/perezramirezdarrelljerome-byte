@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Darrell Perez 😎
+I’m a student at the University of Technology of Peru 
+
+
 
 <!--
 **perezramirezdarrelljerome-byte/perezramirezdarrelljerome-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
