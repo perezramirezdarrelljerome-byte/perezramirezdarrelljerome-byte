@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Darrell Perez 😎
-I’m a student at the University of Technology of Peru 
+I’m a student at the University of Technology of Peru ![ClipWindowsGIF](https://github.com/user-attachments/assets/004d668f-be18-4993-b271-1741ca898d89)
+
 
 
 
